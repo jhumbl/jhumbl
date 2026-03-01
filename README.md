@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
+
+Doing stuff with data.
 
 <!--
 **jhumbl/jhumbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
