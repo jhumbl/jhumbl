@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-Doing stuff with data.
+Doing stuff with data in R.
 
 <!--
 **jhumbl/jhumbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
